@@ -4,7 +4,7 @@
   "main": "app.js",
   "description": "A virtual ecommerce website using Node js, Express js, and Mongoose.",
   "scripts": {
-    "build" : "npm run build"
+    "build" : "nodemon app.js"
     "start": "nodemon app.js"
   },
   "author": "Maryam Aljanabi",
