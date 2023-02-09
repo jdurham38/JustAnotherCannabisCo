@@ -1,5 +1,5 @@
 mapboxgl.accessToken =
-  "pk.eyJ1IjoibS0xMzVhIiwiYSI6ImNrOGsyb3ZqaDBkemkzcW10emc1eXoyNngifQ.NuSNrMKqrpdm-jxvPpx0_Q";
+  "pk_test_51MYwm7HR3c6JyWy2jPbtJFfpwTfZbyrLxwsTi2ODXXd45BT7PJ6JGKMVbSPQAJBmlkl9cmoSOUgApmAGGUz2NDSE007UAB9268";
 const lat = 48.8606;
 const lng = 2.3376;
 
